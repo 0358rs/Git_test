@@ -84,7 +84,7 @@ DATABASES = {
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'mydb', # DB名を設定
+        'NAME': 'EB', # DB名を設定
         'USER': 'root', # DBへ接続するユーザIDを設定
         'PASSWORD': '80249satoshi', # DBへ接続するユーザIDのパスワードを設定
         'HOST': '',
