@@ -51,7 +51,7 @@
           <entry key="dummy" value="2" />
           <entry key="gitignore" value="15" />
           <entry key="html" value="1658" />
-          <entry key="py" value="3006" />
+          <entry key="py" value="3008" />
           <entry key="txt" value="10" />
         </counts>
       </usages-collector>
@@ -59,7 +59,7 @@
         <counts>
           <entry key="HTML" value="1658" />
           <entry key="PLAIN_TEXT" value="34" />
-          <entry key="Python" value="3006" />
+          <entry key="Python" value="3008" />
         </counts>
       </usages-collector>
     </session>
@@ -75,7 +75,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/wsgi.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
@@ -108,11 +108,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-602">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="232">
+              <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -181,6 +181,7 @@
       <find>sql</find>
       <find>recoone</find>
       <find>secure</find>
+      <find>database</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -224,6 +225,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="483" />
     <option name="y" value="23" />
     <option name="width" value="1156" />
     <option name="height" value="852" />
@@ -645,13 +647,6 @@
     <entry file="file://$PROJECT_DIR$/runtime.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-602">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -659,6 +654,13 @@
           <folding>
             <element signature="e#222#231#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
         </state>
       </provider>
     </entry>
