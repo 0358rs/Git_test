@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e962bae7-1ff2-41d0-9222-c870220630e4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,14 +35,14 @@
           <entry key="iml" value="1" />
           <entry key="py" value="97" />
           <entry key="sqlite3" value="2" />
-          <entry key="txt" value="8" />
+          <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="11" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="PLAIN_TEXT" value="17" />
+          <entry key="PLAIN_TEXT" value="18" />
           <entry key="Python" value="97" />
         </counts>
       </usages-collector>
@@ -99,7 +100,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -108,11 +109,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+            <state relative-caret-position="-1070">
+              <caret line="12" column="9" selection-start-line="12" selection-end-line="12" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -182,6 +183,7 @@
       <find>recoone</find>
       <find>secure</find>
       <find>database</find>
+      <find>import os</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -215,12 +217,12 @@
         <option value="$PROJECT_DIR$/config/local-settings.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/requirement.txt" />
-        <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/config/wsgi.py" />
         <option value="$PROJECT_DIR$/config/local_settings.py" />
         <option value="$PROJECT_DIR$/runtime.txt" />
         <option value="$PROJECT_DIR$/config/settings.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
       </list>
     </option>
   </component>
@@ -418,7 +420,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1156" height="852" extended-state="0" />
+    <frame x="483" y="23" width="1156" height="852" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49799198" visible="true" weight="0.20704846" />
@@ -563,9 +565,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirement.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/apps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -613,20 +612,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -659,8 +644,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+        <state relative-caret-position="-1070">
+          <caret line="12" column="9" selection-start-line="12" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirement.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="20" />
         </state>
       </provider>
     </entry>
