@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e962bae7-1ff2-41d0-9222-c870220630e4" name="Default Changelist" comment="" />
+    <list default="true" id="e962bae7-1ff2-41d0-9222-c870220630e4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/blog/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/base.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +30,7 @@
         <counts>
           <entry key="Procfile" value="6" />
           <entry key="gitignore" value="1" />
-          <entry key="html" value="11" />
+          <entry key="html" value="12" />
           <entry key="iml" value="1" />
           <entry key="py" value="97" />
           <entry key="sqlite3" value="2" />
@@ -37,7 +39,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="11" />
+          <entry key="HTML" value="12" />
           <entry key="IDEA_MODULE" value="1" />
           <entry key="PLAIN_TEXT" value="18" />
           <entry key="Python" value="97" />
@@ -48,14 +50,14 @@
           <entry key="Procfile" value="7" />
           <entry key="dummy" value="2" />
           <entry key="gitignore" value="15" />
-          <entry key="html" value="1658" />
+          <entry key="html" value="1667" />
           <entry key="py" value="3017" />
           <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="1658" />
+          <entry key="HTML" value="1667" />
           <entry key="PLAIN_TEXT" value="34" />
           <entry key="Python" value="3017" />
         </counts>
@@ -85,7 +87,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/manage.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
@@ -93,6 +95,15 @@
               <folding>
                 <element signature="e#22#31#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/templates/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="40" column="72" selection-start-line="40" selection-start-column="72" selection-end-line="40" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -190,7 +201,6 @@
       <list>
         <option value="$PROJECT_DIR$/config/urls.py" />
         <option value="$PROJECT_DIR$/blog/templates/sidebar.html" />
-        <option value="$PROJECT_DIR$/blog/templates/base.html" />
         <option value="$PROJECT_DIR$/blog/templates/navi.html" />
         <option value="$PROJECT_DIR$/blog/templates/blog/blog_detail.html" />
         <option value="$PROJECT_DIR$/blog/views.py" />
@@ -215,11 +225,12 @@
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/config/settings.py" />
         <option value="$PROJECT_DIR$/manage.py" />
+        <option value="$PROJECT_DIR$/blog/templates/base.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="483" />
+    <option name="x" value="284" />
     <option name="y" value="23" />
     <option name="width" value="1156" />
     <option name="height" value="852" />
@@ -238,6 +249,22 @@
             <path>
               <item name="microblog_test" type="b2602c69:ProjectViewProjectNode" />
               <item name="microblog_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microblog_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microblog_test" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microblog_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microblog_test" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microblog_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microblog_test" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -387,7 +414,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="483" y="23" width="1156" height="852" extended-state="0" />
+    <frame x="284" y="23" width="1156" height="852" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49799198" visible="true" weight="0.20704846" />
       <window_info id="Structure" order="1" sideWeight="0.502008" side_tool="true" weight="0.24947146" />
@@ -441,13 +468,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="40" column="74" selection-start-line="40" selection-start-column="63" selection-end-line="40" selection-end-column="74" />
         </state>
       </provider>
     </entry>
@@ -629,6 +649,13 @@
           <folding>
             <element signature="e#22#31#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="40" column="72" selection-start-line="40" selection-start-column="72" selection-end-line="40" selection-end-column="72" />
         </state>
       </provider>
     </entry>
