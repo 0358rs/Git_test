@@ -8,6 +8,7 @@
       <h1 class="my-4">近日開催のおすすめイベント</h1>
 
       <!-- Blog Post -->
+        <p class="event-date">2018/11/20</p>
         {% for blog in object_list %}
           <div class="card mb-4">
             <a href="{% url "detail" blog.id %}"><img class="card-img-top" src="{% static 'img/750x300.png'%}" alt="Card image cap"></a>
