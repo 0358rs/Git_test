@@ -6,7 +6,7 @@ from .models import Blog
 
 class BlogListView(ListView):
     model = Blog
-    paginate_by = 3
+    paginate_by = 4
 
 class BlogDetailView(DetailView):
     model = Blog
