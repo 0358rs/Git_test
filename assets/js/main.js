@@ -3,8 +3,4 @@ var vueApp = new Vue({
     data: {
         connpassApi:null
     },
-    mounted: function() {
-        axios.get('https://connpass.com/api/v1/event/?keyword=%E8%8B%B1%E8%AA%9E')
-    })
-    }
 })
